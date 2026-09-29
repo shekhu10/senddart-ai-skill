@@ -1,0 +1,4 @@
+interface:
+  display_name: "SendDart AI Setup"
+  short_description: "Integrate SendDart into any codebase"
+  default_prompt: "Use $senddart-ai-skill to set up SendDart securely in this codebase and verify the integration end to end."
